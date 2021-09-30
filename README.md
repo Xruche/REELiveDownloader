@@ -16,7 +16,7 @@ This python3 package depends on the following libraries:
 	
 Only 2 or 3 arguments must be provided in the stated order.
 
-Both <begin time> and <end time> should be given in YYYY-MM-DD format.
+Both ```<begin time>``` and ```<end time>``` arguments should be given in YYYY-MM-DD format.
 	
 End time argument is optional, if no end time is provided, the current time will be used as end time.
 	
