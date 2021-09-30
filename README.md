@@ -8,6 +8,7 @@ This python3 package depends on the following libraries:
 - json
 - datetime
 - sys
+- urllib
 
 ## Usage
 
