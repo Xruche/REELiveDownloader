@@ -21,20 +21,20 @@ The resulting data is collected in a file named REE<region>_<begin time>_to_<end
 	
 Available regions for ```<region argument>```:
 	
--Peninsula
--Baleares
--Mallorca
--Menorca
--Ibiza
--Formentera
--Tenerife
--ElHierro
--GranCanaria
--LanzaroteFuerteventura
--Fuerteventura
--LaGomera
--Lanzarote
--LaPalma
+- Peninsula
+- Baleares
+- Mallorca
+- Menorca
+- Ibiza
+- Formentera
+- Tenerife
+- ElHierro
+- GranCanaria
+- LanzaroteFuerteventura
+- Fuerteventura
+- LaGomera
+- Lanzarote
+- LaPalma
 			
 usage example : 
 		
