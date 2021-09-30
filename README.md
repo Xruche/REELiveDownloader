@@ -1,7 +1,7 @@
 # REELiveDownloader
 Simple Python3 program to download charted data from REE's (Red Electrica Española) website.
 
-This simple software package lets the user automatically download data which can be obttained at https://demanda.ree.es/visiona/ website, containing the latest information available about the Spanish Electrical Grid (and open for use).
+This simple software package lets the user automatically download data which can be obtained at https://demanda.ree.es/visiona/ website, containing the latest information available about the Spanish Electrical Grid (and open for use).
 
 This python3 package depends on the following libraries:
 
