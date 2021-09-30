@@ -40,7 +40,7 @@ def DisplayHelpPage():
 		End time argument is optional, if no end time is provided, the current time will be used as end time.
 		The resulting data is collected in a file named REE<region>_<begin time>_to_<end time>
 	
-		Available regions :
+		Available regions  for <region argument> :
 			Peninsula
 			Baleares
 			Mallorca
@@ -58,7 +58,7 @@ def DisplayHelpPage():
 			
 	usage example : 
 		
-		python3 REELiveDownloader.py Lanzarote 2020-9-30
+		python3 REELiveDownloader.py Lanzarote "2020-9-30"
 		
 		or
 		
