@@ -15,9 +15,12 @@ This python3 package depends on the following libraries:
 ```python3 REELiveDownloader.py <region> <begin time> <optional: end time>```
 	
 Only 2 or 3 arguments must be provided in the stated order.
+
 Both <begin time> and <end time> should be given in YYYY-MM-DD format.
+	
 End time argument is optional, if no end time is provided, the current time will be used as end time.
-The resulting data is collected in a file named REE<region>_<begin time>_to_<end time>.csv
+	
+The resulting data is collected in a file named ```REE<region>_<begin time>_to_<end time>.csv```
 	
 Available regions for ```<region argument>```:
 	
